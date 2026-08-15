@@ -1,0 +1,149 @@
+🚗 Project: ParkEasy – Smart Parking Finder & Reservation App
+Overall Context
+
+ParkEasy is a proposed mobile application designed to solve a common problem in cities: finding available parking quickly.
+
+Currently, people often drive around searching for parking, which wastes time and fuel and can cause stress and traffic congestion. ParkEasy aims to solve this by allowing users to find nearby parking, check availability and price, reserve a space, make payment, and navigate to the parking location.
+
+The project is divided into 4 Product Management tasks.
+
+🔹 Task 1 – User Persona & Empathy Map
+Context:
+
+Before creating a product, a Product Manager needs to understand who the users are and what problems they face.
+
+For ParkEasy, we created a fictional target user, Rahul, a 24-year-old software employee who regularly drives to work.
+
+We studied:
+
+What he says
+What he thinks
+What he does
+What he feels
+His goals
+His frustrations
+His parking problems
+Main finding:
+
+Users are frustrated because they don't know whether parking will be available when they reach their destination.
+
+Purpose of Task 1:
+Understand the user's problem before designing a solution.
+
+🔹 Task 2 – Competitive Analysis & SWOT
+Context:
+
+After understanding the user, we need to understand the existing market and competitors.
+
+For ParkEasy, we compared it with:
+
+Google Maps
+Parkopedia
+
+We compared features such as parking discovery, availability, pricing, reservation, navigation, and payment.
+
+Then we performed a SWOT analysis:
+
+Strengths – What ParkEasy can do well
+Weaknesses – Its limitations
+Opportunities – Where it can grow
+Threats – Competition and market challenges
+Main finding:
+
+A major opportunity is providing reliable real-time parking availability along with advance reservation.
+
+Purpose of Task 2:
+Understand competitors and identify an opportunity for our product.
+
+🔹 Task 3 – Product Roadmap
+Context:
+
+Once we know the problem and opportunity, we need to decide what to build first and when to build it.
+
+We used the MoSCoW method:
+
+Must Have – Essential features
+Should Have – Important features
+Could Have – Optional features
+Won't Have – Features postponed for now
+
+Then we created a 3-month roadmap.
+
+Month 1:
+
+Research & Design
+
+Month 2:
+
+Development
+
+Month 3:
+
+Testing & Launch
+
+Main finding:
+
+The core MVP should focus first on parking search, availability, reservation, pricing, and navigation.
+
+Purpose of Task 3:
+Create a realistic plan for developing and launching the product.
+
+🔹 Task 4 – Product Requirements Document (PRD)
+Context:
+
+After deciding what to build, the development team needs clear instructions about what the feature should do.
+
+That's where the PRD comes in.
+
+Our PRD describes the:
+
+Feature purpose
+Problem
+Target users
+User stories
+Functional requirements
+KPIs
+User flow
+Basic wireframe
+Example:
+
+A user should be able to:
+
+Open ParkEasy → Search destination → Find available parking → Check price → Reserve → Pay → Navigate to parking
+
+Main finding:
+
+The PRD converts the product idea into clear requirements that a development team can understand and build.
+
+Purpose of Task 4:
+Clearly define how the proposed feature should work.
+
+🎯 Complete Project in One Line
+
+You can explain the entire project like this:
+
+“ParkEasy is a product-management case study where I identified a parking problem, understood the target user, analyzed competitors, identified a feature opportunity, created a development roadmap, and prepared a PRD for the solution.”
+
+Simple flow to remember:
+
+TASK 1
+👤 Understand the USER
+
+↓
+
+TASK 2
+🏢 Understand the COMPETITION
+
+↓
+
+TASK 3
+📅 Plan the PRODUCT
+
+↓
+
+TASK 4
+📋 Define the REQUIREMENTS
+
+↓
+
+🚗 ParkEasy Solution
